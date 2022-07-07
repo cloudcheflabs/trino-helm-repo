@@ -1,13 +1,50 @@
 apiVersion: v1
 entries:
+  dataroaster-trino-operator:
+  - apiVersion: v2
+    appVersion: "384"
+    created: "2022-07-07T15:24:27.834416902Z"
+    description: dataroaster trino operator
+    digest: 426a66e53d665632c45e2434ec118b478162aa62ae9f5e3ac78e839215c09690
+    name: dataroaster-trino-operator
+    urls:
+    - dataroaster-trino-operator-v1.0.0.tgz
+    version: v1.0.0
   dataroastertrinooperator:
   - apiVersion: v2
     appVersion: v3.0.0
-    created: "2022-07-07T15:24:04.165723091Z"
+    created: "2022-07-07T15:24:27.83755147Z"
     description: dataroaster trino operator
     digest: 3867c4ab4b776e523ee55be7123d251097276b3d040fa26e8d285d2facdb2049
     name: dataroastertrinooperator
     urls:
     - dataroastertrinooperator-v2.0.2.tgz
     version: v2.0.2
-generated: "2022-07-07T15:24:04.162139105Z"
+  - apiVersion: v2
+    appVersion: v2.0.0
+    created: "2022-07-07T15:24:27.836799377Z"
+    description: dataroaster trino operator
+    digest: c20abb558604289c482268e368b42955f3f09a7fca800838a8aedaf9869e25ac
+    name: dataroastertrinooperator
+    urls:
+    - dataroastertrinooperator-v2.0.1.tgz
+    version: v2.0.1
+  - apiVersion: v2
+    appVersion: v2.0.0
+    created: "2022-07-07T15:24:27.836072393Z"
+    description: dataroaster trino operator
+    digest: fdcc78921befc4a2fc1441e89e522f76029d903f4979a61c6732dee31ffe2618
+    name: dataroastertrinooperator
+    urls:
+    - dataroastertrinooperator-v2.0.0.tgz
+    version: v2.0.0
+  - apiVersion: v2
+    appVersion: "384"
+    created: "2022-07-07T15:24:27.834735044Z"
+    description: dataroaster trino operator
+    digest: 29513dd6ce867a901d5c7aa5e07252444983c9314fe8c3a64c064f5305d29ff8
+    name: dataroastertrinooperator
+    urls:
+    - dataroastertrinooperator-v1.0.1.tgz
+    version: v1.0.1
+generated: "2022-07-07T15:24:27.833931605Z"
