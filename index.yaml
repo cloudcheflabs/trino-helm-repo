@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  dataroastertrinooperator:
+  - apiVersion: v2
+    appVersion: v3.1.2
+    created: "2022-07-13T14:46:49.680623621Z"
+    description: dataroaster trino operator
+    digest: 143c0e852bb76187d9ffe2665830a60e05bab5578987261eec236d75e0f060c1
+    name: dataroastertrinooperator
+    urls:
+    - dataroastertrinooperator-v2.1.6.tgz
+    version: v2.1.6
+generated: "2022-07-13T14:46:49.679974709Z"
