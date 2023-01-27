@@ -3,7 +3,7 @@ entries:
   dataroaster-trino-operator:
   - apiVersion: v2
     appVersion: "384"
-    created: "2023-01-19T22:09:16.734954793Z"
+    created: "2023-01-27T14:30:23.649574879Z"
     description: dataroaster trino operator
     digest: 426a66e53d665632c45e2434ec118b478162aa62ae9f5e3ac78e839215c09690
     name: dataroaster-trino-operator
@@ -13,16 +13,16 @@ entries:
   dataroastertrinooperator:
   - apiVersion: v2
     appVersion: v3.1.1
-    created: "2023-01-19T22:09:16.741182194Z"
+    created: "2023-01-27T14:30:23.661410445Z"
     description: dataroaster trino operator
-    digest: e289923dae67740a180188e4b41c75a5d1ea50b937adf48948c62ab25734ad98
+    digest: 7d9e19a16100657438a5187e664632d17e00e6839139b2490624fdfe59581804
     name: dataroastertrinooperator
     urls:
     - dataroastertrinooperator-v2.2.0.tgz
     version: v2.2.0
   - apiVersion: v2
     appVersion: v3.1.1
-    created: "2023-01-19T22:09:16.740754284Z"
+    created: "2023-01-27T14:30:23.661049662Z"
     description: dataroaster trino operator
     digest: 93bac82f52c746e1385ead7c50f074114e0b0f87125a7893a23855526fcab46c
     name: dataroastertrinooperator
@@ -31,7 +31,7 @@ entries:
     version: v2.1.8
   - apiVersion: v2
     appVersion: v3.1.2
-    created: "2023-01-19T22:09:16.74031954Z"
+    created: "2023-01-27T14:30:23.660213058Z"
     description: dataroaster trino operator
     digest: 143c0e852bb76187d9ffe2665830a60e05bab5578987261eec236d75e0f060c1
     name: dataroastertrinooperator
@@ -40,7 +40,7 @@ entries:
     version: v2.1.6
   - apiVersion: v2
     appVersion: v3.1.1
-    created: "2023-01-19T22:09:16.739885618Z"
+    created: "2023-01-27T14:30:23.659263641Z"
     description: dataroaster trino operator
     digest: fff834077537d15a9deedacf8771229824443748ea00b3effad035e07899718e
     name: dataroastertrinooperator
@@ -49,7 +49,7 @@ entries:
     version: v2.1.5
   - apiVersion: v2
     appVersion: v3.1.0
-    created: "2023-01-19T22:09:16.739431309Z"
+    created: "2023-01-27T14:30:23.65784743Z"
     description: dataroaster trino operator
     digest: 70e9fd00ce0cd5ddaf7cbb907af17f619a864773bfeeeceac9bea3d7a3d96df5
     name: dataroastertrinooperator
@@ -58,7 +58,7 @@ entries:
     version: v2.1.4
   - apiVersion: v2
     appVersion: v3.1.0
-    created: "2023-01-19T22:09:16.739028386Z"
+    created: "2023-01-27T14:30:23.657009814Z"
     description: dataroaster trino operator
     digest: 59d7d94477b7c5b7c8648debc9e9b7f7bf8af9d166ae30f5a3b9bd246b452188
     name: dataroastertrinooperator
@@ -67,7 +67,7 @@ entries:
     version: v2.1.3
   - apiVersion: v2
     appVersion: v3.1.0
-    created: "2023-01-19T22:09:16.738632898Z"
+    created: "2023-01-27T14:30:23.656186785Z"
     description: dataroaster trino operator
     digest: d2f02e7f4566c98299b71ed9541b4c21544aecc0ba06185774739d28c6f3af61
     name: dataroastertrinooperator
@@ -76,7 +76,7 @@ entries:
     version: v2.1.2
   - apiVersion: v2
     appVersion: v3.1.0
-    created: "2023-01-19T22:09:16.738197523Z"
+    created: "2023-01-27T14:30:23.65536513Z"
     description: dataroaster trino operator
     digest: a8992f41cd70923a75ff5c888e881f1380532578d2ea6e5d724e3a71a5e4403c
     name: dataroastertrinooperator
@@ -85,7 +85,7 @@ entries:
     version: v2.1.1
   - apiVersion: v2
     appVersion: v3.1.0
-    created: "2023-01-19T22:09:16.737760796Z"
+    created: "2023-01-27T14:30:23.654510432Z"
     description: dataroaster trino operator
     digest: 72da2f573574580df6a822979e621f62ec1be878f15e8082d6a2777cd5d71ce0
     name: dataroastertrinooperator
@@ -94,7 +94,7 @@ entries:
     version: v2.1.0
   - apiVersion: v2
     appVersion: v3.0.0
-    created: "2023-01-19T22:09:16.73725566Z"
+    created: "2023-01-27T14:30:23.653668598Z"
     description: dataroaster trino operator
     digest: 3867c4ab4b776e523ee55be7123d251097276b3d040fa26e8d285d2facdb2049
     name: dataroastertrinooperator
@@ -103,7 +103,7 @@ entries:
     version: v2.0.2
   - apiVersion: v2
     appVersion: v2.0.0
-    created: "2023-01-19T22:09:16.736367588Z"
+    created: "2023-01-27T14:30:23.652669366Z"
     description: dataroaster trino operator
     digest: c20abb558604289c482268e368b42955f3f09a7fca800838a8aedaf9869e25ac
     name: dataroastertrinooperator
@@ -112,7 +112,7 @@ entries:
     version: v2.0.1
   - apiVersion: v2
     appVersion: v2.0.0
-    created: "2023-01-19T22:09:16.735639459Z"
+    created: "2023-01-27T14:30:23.651140261Z"
     description: dataroaster trino operator
     digest: fdcc78921befc4a2fc1441e89e522f76029d903f4979a61c6732dee31ffe2618
     name: dataroastertrinooperator
@@ -121,11 +121,11 @@ entries:
     version: v2.0.0
   - apiVersion: v2
     appVersion: "384"
-    created: "2023-01-19T22:09:16.73522733Z"
+    created: "2023-01-27T14:30:23.650233866Z"
     description: dataroaster trino operator
     digest: 29513dd6ce867a901d5c7aa5e07252444983c9314fe8c3a64c064f5305d29ff8
     name: dataroastertrinooperator
     urls:
     - dataroastertrinooperator-v1.0.1.tgz
     version: v1.0.1
-generated: "2023-01-19T22:09:16.734548494Z"
+generated: "2023-01-27T14:30:23.648773271Z"
